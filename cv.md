@@ -3,14 +3,26 @@
 # Contacts
 
 Location: Ulyanovsk, Russia
+
 Phone: +7 999 190 10 25
+
+Telegram: @nemefis
+
 e-mail: panchenkoalex@hotmail.com
-GitHub: Nemefis
+
+GitHub: [Nemefis](https://github.com/Nemefis "My GitHub")
+
+[LinkedIn](https://www.linkedin.com/in/aleksandr-panchenko-b7794b80/ "MyLinkedIn")
 
 # About me
 
 I'm 27 years old. 
+
 I have been doing layout since high school. It so happened that I studied on my own. At weekends I teach courses for children in HTML, CSS. In my spare time, I take courses at RS School.
+
+I like trading and investing.
+
+My [YouTube channel](https://www.youtube.com/channel/UCanAoKSF_I82tk-wBBmEcVw "My YouTube Channel")
 
 # Hard skills
 
@@ -22,8 +34,11 @@ I have been doing layout since high school. It so happened that I studied on my 
 
 # Soft skills
 
-*Communicative
-*I like to organize teams
-*Mentorship
+* Communicative
+* I like to organize teams
+* Mentorship
 
-English B1 (Skyeng)
+# Language
+
+### Russian - Native
+### English - B1 (Skyeng)
