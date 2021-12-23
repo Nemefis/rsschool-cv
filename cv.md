@@ -4,12 +4,6 @@
 
 Location: Ulyanovsk, Russia
 
-Phone: +7 999 190 10 25
-
-Telegram: @nemefis
-
-e-mail: panchenkoalex@hotmail.com
-
 GitHub: [Nemefis](https://github.com/Nemefis "My GitHub")
 
 [LinkedIn](https://www.linkedin.com/in/aleksandr-panchenko-b7794b80/ "MyLinkedIn")
