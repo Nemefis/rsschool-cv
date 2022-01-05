@@ -75,3 +75,12 @@ h4 {
     text-align: left;
     padding-left: 50px;
 }
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #ffffff;
+    background-color: var(--footer-background-color);
+}
